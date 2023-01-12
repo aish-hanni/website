@@ -1,0 +1,49 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background:scroll
+}
+.navigation-bar{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    background-color: rgb(19, 9, 1);
+    border: 0px;
+    
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0px;
+    width: 100px;
+}
+
+.flexbox-container{
+    display: flex;
+    background-color: gray;
+    padding: 0% margin 0%;
+    flex-grow: 1;
+}
+.flexbox-item{
+    padding: 100px;
+    width: 300px;
+    background-color: white;
+    direction: left;
+}
+.flexbox-item-1{
+    min-height: 60px;
+}
+.flexbox-item-2{
+    min-height: 60px;
+    background-color: rgb(85, 27, 4);
+}
+.flexbox-item-3{
+    min-height: 150px;
+}
+
+
+
+
+    
+
